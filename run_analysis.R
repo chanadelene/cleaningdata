@@ -1,4 +1,4 @@
-## set working directory
+## set wd
 setwd("~/Coursera/gettingandcleaningdata/data")
 
 ## Get feature names and subset to only those features of mean or std measures
